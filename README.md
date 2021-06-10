@@ -1,2 +1,6 @@
 # WheaterApp
 Assignment2 Mobcom114
+
+NAMA : FACHRY MUHAMMAD
+NRM : 1313617019
+PRODI : ILMU KOMPUTER
